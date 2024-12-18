@@ -53,3 +53,15 @@ In Marsmania, you play as a campfire 🔥 trying to "roast" a marshmallow 🧁 b
    ```bash
    git clone git@github.com:ErlendTregde/GameJamBeta2024.git
    cd GameJamBeta2024
+
+## 👨‍💻 Developer  
+**Erlend Tregde**  
+
+This project was made for the **Beta Game Jam 2024**.
+
+---
+
+## 📜 License  
+This project is open source. Feel free to use it, but give credit to the original author!
+
+   
